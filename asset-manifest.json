@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/248nishi-seeen/noteapp-withreact/static/css/main.f0aadfc2.css",
+    "main.js": "/248nishi-seeen/noteapp-withreact/static/js/main.93c3ff59.js",
+    "index.html": "/248nishi-seeen/noteapp-withreact/index.html",
+    "main.f0aadfc2.css.map": "/248nishi-seeen/noteapp-withreact/static/css/main.f0aadfc2.css.map",
+    "main.93c3ff59.js.map": "/248nishi-seeen/noteapp-withreact/static/js/main.93c3ff59.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0aadfc2.css",
+    "static/js/main.93c3ff59.js"
+  ]
+}
