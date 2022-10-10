@@ -11,12 +11,11 @@ function App() {
   const [activeNote, setActiveNote] = useState(false);
 
   useEffect(() => {
-    //ローカルストレージにノートを保存する。
+    //localstrageにnoteを保存する。
     localStorage.setItem("notes", JSON.stringify(notes));
   }, [notes]);
 
   const onAddNote = () => {
-
     const newNote = {
       id: uuid(),
       title: "新しいノート",
