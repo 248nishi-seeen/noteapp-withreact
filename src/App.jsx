@@ -11,7 +11,7 @@ function App() {
   const [activeNote, setActiveNote] = useState(false);
 
   useEffect(() => {
-    //localstrageにnoteを保存する。
+    //localstrageにノートを保存する。
     localStorage.setItem("notes", JSON.stringify(notes));
   }, [notes]);
 
