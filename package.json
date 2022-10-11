@@ -1,5 +1,6 @@
 {
   "name": "noteapp-withreact",
+  "homepage": "https://248nishi-seeen.github.io/noteapp-withreact/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -16,6 +17,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "deploy": "yarn build && gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },

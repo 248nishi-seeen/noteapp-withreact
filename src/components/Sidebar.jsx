@@ -78,7 +78,7 @@ export const Sidebar = ({
           .app-sidebar-header button {
             width: 100%;
             font-size: 25px;
-            padding: 30px;
+            padding: 10px;
           }
         }
         @media screen and (max-width : 520px) {
